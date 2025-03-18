@@ -31,7 +31,7 @@ FaceRecognitionPOC is a Flutter-based proof of concept for face recognition usin
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/facerecognitionpoc.git
+   git clone https://github.com/geekysaif/FaceRecognitionPoc.git
    cd facerecognitionpoc
    ```
 2. Install dependencies:
