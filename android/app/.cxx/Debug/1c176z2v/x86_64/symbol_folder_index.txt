@@ -1,0 +1,1 @@
+/Users/geekysaif/AndroidStudioProjects/FLUTTER PROJECTS/FaceRecognition/build/app/intermediates/cxx/Debug/1c176z2v/obj/x86_64

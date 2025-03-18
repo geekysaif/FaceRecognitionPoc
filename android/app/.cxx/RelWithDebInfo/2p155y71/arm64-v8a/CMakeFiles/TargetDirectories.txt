@@ -1,0 +1,2 @@
+D:/FLutterProject/FaceRecognition/android/app/.cxx/RelWithDebInfo/2p155y71/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/FLutterProject/FaceRecognition/android/app/.cxx/RelWithDebInfo/2p155y71/arm64-v8a/CMakeFiles/rebuild_cache.dir
