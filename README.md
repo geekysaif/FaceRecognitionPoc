@@ -1,4 +1,4 @@
-# 🎭 ![App Icon](assets/icon.png) FaceRecognitionPOC 🚀
+# 🎭 FaceRecognitionPOC 🚀
 
 FaceRecognitionPOC is a Flutter-based proof of concept for face recognition using machine learning models. This project leverages Google's ML Kit for face detection and TensorFlow Lite for on-device machine learning.
 
